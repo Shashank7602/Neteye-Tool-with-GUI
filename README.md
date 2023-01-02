@@ -1,7 +1,7 @@
 # Neteye
 Network Enumeration And Post Exploitation
 <br>
-<h4>git clone https://github.com/Bkmaxx/Neteye/ </h4> 
+
 <br>
 [Python3 required]
 <br>
