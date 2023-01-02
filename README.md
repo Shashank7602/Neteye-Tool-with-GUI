@@ -25,4 +25,3 @@ For Complete Scan with 1250 Threads upto 63000 ports in 1.5~3 min use Neteye-A.p
 <h4>[+]</h4>
 <img src='https://user-images.githubusercontent.com/71484449/204520154-b54063e6-a093-4d80-821c-2759ecc18d0b.png'>
 
-# @bkmaxbaibhav
